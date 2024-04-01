@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/govindraj-chavan-081307259?original_referer=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govindrajchavan" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/govindraj chavan](https://www.youtube.com/channel/UCvRPZ0WqJYw-bMs0iJ4F5Lw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="govindraj chavan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvRPZ0WqJYw-bMs0iJ4F5Lw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="govindraj chavan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/govindrajchavan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="govindrajchavan7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/govindrajchavan7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="govindrajchavan7" height="35" width="35" /></a>
 </p>
